@@ -35,9 +35,10 @@ public class Loops {
 					
 					int e=c*d;
 					System.out.println(c+" X "+d+" = "+e);
-					//System.out.println("2 X " +c+" = " +2*c);
-					//e=e+1;
+					/* System.out.println("2 X " +c+" = " +2*c);
 					
+					e=e+1; */
+					// Commented to check the branch
 					
 		}
 		}
