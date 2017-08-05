@@ -5,6 +5,7 @@ public class Arrays {
 	public static void main(String[] args) {
 		
 		//Arrays
+		// Test Jenkins integration
 		
 		String shoppingList[] = new String[5];
 		shoppingList[0] = "Chocolates";
